@@ -10,8 +10,7 @@ Here is **Rui Wang (Rui, 王瑞)**.
 
 I am a third-year Ph.D. candidate in Management Science and Engineering at the School of Management, Sun Yat-sen University, under the guidance of [Prof. Haiqing Song](https://bus.sysu.edu.cn/teacher/songhaiqing) and [Prof. Yanli Tang](https://bus.sysu.edu.cn/teacher/TangYanli). I hold a bachelor's degree in Logistics Management from Ocean University of China. Additionally, I participated in an innovation management program at the National University of Singapore, where I had the privilege of receiving a recommendation letter from [Prof. Andrew Lim].
 
-If you are interested in my research or potential collaboration opportunities, please feel free to contact me at - *wangr283[at]mail2[dot]sysu[dot]edu[dot]cn*
-
+If you are interested in my research or potential collaboration opportunities, please feel free to contact me at - *wangr283@mail2.sysu.edu.cn*
 
 ## Academic Background
 

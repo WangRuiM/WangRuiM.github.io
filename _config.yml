@@ -7,7 +7,7 @@ url: https://wangruim.github.io/
 # Owner/author information
 owner:
   name: Rui Wang
-  avatar: wangrui.jpg
+  avatar: https://wangruim.github.io/wangrui.jpg
   # bio: Two roads diverged in woods, I took the one less traveled by.
   email: wangr283@mail2.sysu.edu.cn
   cv: https://wangruim.github.io/file/CV-RuiWang.pdf
@@ -16,7 +16,7 @@ owner:
   github: WangRuiM
   linkedin: Rui Wang
   # scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
-  bilibili: 594030035
+  # bilibili: 594030035
   researchgate: https://www.researchgate.net/profile/Rui-Wang-593
   zhihu: https://www.zhihu.com/people/yizhi-mei-you-fan-nao-de-r
   # facebook: caihanlin2002
